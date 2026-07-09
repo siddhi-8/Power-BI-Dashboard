@@ -21,15 +21,15 @@ To prepare the dataset for accurate visualization, several data modeling and cle
 
 ### 1. Executive Summary & Demographics
 *(Overview of the survey takers, their global distribution, and average age/salary)*
-![Executive Summary](images/Screenshot%202026-07-09%20220324.png)
+![Executive Summary](Screenshot%202026-07-09%20220324.png)
 
 ### 2. Salary Analysis & Role Breakdown
 *(Deep dive into how salaries vary across specific data roles such as Data Scientist, Data Engineer, and Data Analyst)*
-![Salary Analysis](images/Screenshot%202026-07-09%20220420.png)
+![Salary Analysis](Screenshot%202026-07-09%20220420.png)
 
 ### 3. Programming Preferences & Job Satisfaction
 *(Analysis of the most popular programming languages—with Python taking a massive lead—and average ratings for work-life balance and salary satisfaction)*
-![Job Satisfaction](images/Screenshot%202026-07-09%20220444.png)
+![Job Satisfaction](Screenshot%202026-07-09%20220444.png)
 
 ## 💡 Key Insights Discovered
 1. **Programming Language Dominance:** **Python** is overwhelmingly the favorite programming language among data professionals, making up a significant portion of the responses.
